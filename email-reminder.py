@@ -1,2 +1,2 @@
-if 10 minutes before shift end:
+if 10 minutes before shift ends:
   email
